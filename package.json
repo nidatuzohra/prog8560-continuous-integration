@@ -2,10 +2,10 @@
   "name": "continuous-integration",
   "version": "1.0.0",
   "description": "Static webpage with information on continuous integration",
-  "main": "index.html",
+  "main": "script.js",
   "scripts": {
     "start": "node script.js",
-    "test": "npm start index.html"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
