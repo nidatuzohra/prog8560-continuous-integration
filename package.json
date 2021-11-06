@@ -4,7 +4,8 @@
   "description": "Static webpage with information on continuous integration",
   "main": "index.html",
   "scripts": {
-    "test": "google-chrome index.html"
+    "start": "node script.js",
+    "test": "npm start index.html"
   },
   "repository": {
     "type": "git",
