@@ -1,0 +1,19 @@
+{
+  "name": "continuous-integration",
+  "version": "1.0.0",
+  "description": "Static webpage with information on continuous integration",
+  "main": "index.html",
+  "scripts": {
+    "test": "google-chrome index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nidatuzohra/prog8560-continuous-integration.git"
+  },
+  "author": "Nida Tuz Zohra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nidatuzohra/prog8560-continuous-integration/issues"
+  },
+  "homepage": "https://github.com/nidatuzohra/prog8560-continuous-integration#readme"
+}
